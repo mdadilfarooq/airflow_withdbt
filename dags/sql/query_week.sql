@@ -1,0 +1,1 @@
+SELECT * from weather_data where weather_date > '{}'::date - 7

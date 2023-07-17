@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: weather
+    tables:
+      - name: weather_data
